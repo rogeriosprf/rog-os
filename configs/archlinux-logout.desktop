@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=Sair do Sistema
+Comment=Menu de Logout Estilizado
+Exec=archlinux-logout
+Icon=system-log-out
+Terminal=false
+Type=Application
+Categories=System;

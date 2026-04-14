@@ -64,7 +64,7 @@ ufw 0.36.2-7
 unrar 1:7.2.5-1
 unzip 6.0-23
 wireplumber 0.5.14-1
-wlogout 1.2.2-0
+arcolinux-logout
 xf86-video-intel 1:2.99.917+939+g4a64400e-1
 xfce4-terminal 1.2.0-1
 xorg-server 21.1.21-1
