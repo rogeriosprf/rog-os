@@ -2,7 +2,11 @@
 arandr 0.1.11-6
 base 3-3
 base-devel 1-2
+blueman 2.4.6-2
+bluez 5.86-4
+bluez-utils 5.86-4
 btop 1.4.6-2
+cups 2:2.4.16-2
 efibootmgr 18-3
 firefox 149.0.2-1
 flameshot 13.3.0-2
@@ -47,12 +51,15 @@ pipewire-alsa 1:1.6.3-1
 pipewire-jack 1:1.6.3-1
 pipewire-pulse 1:1.6.3-1
 python-requests 2.33.1-1
+reflector 2023-5
 rofi 2.0.0-1
 sddm 0.21.0-6
 sddm-sugar-candy-git 1.6r42.d31dbf5-1
 sddm-theme-sugar-candy-git r41.a1fae51-1
+system-config-printer 1.5.18-6
 ttf-cascadia-code 2407.24-2
 ttf-dejavu 2.37+18+g9b5d1b2f-8
+ttf-liberation 2.1.5-2
 ufw 0.36.2-7
 unrar 1:7.2.5-1
 unzip 6.0-23
